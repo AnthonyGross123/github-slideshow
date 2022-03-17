@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Does anything rhyme with orange? ##no it doesn't##
 Use the left arrow to go back!
